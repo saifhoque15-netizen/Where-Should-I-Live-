@@ -4,9 +4,14 @@ def highlight_better_row(row):
         metric_name = row.name
 
         higher_is_better = [
-            'Average Monthly Salary',
-            'GDP per Capita',
-            'Working Age Population'
+            'Average Monthly Salary (€)',
+            'GDP per Capita (€)',
+            'Working Age Population (Count)',
+            'Air Quality Index',
+            'Green Space Index',
+            'Health Care Index',
+            'Life Expectancy (Years)',
+            'Public Transport Satisfaction'
         ]
 
         if metric_name in higher_is_better:

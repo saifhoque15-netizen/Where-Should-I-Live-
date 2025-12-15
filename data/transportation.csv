@@ -1,0 +1,85 @@
+City,Country,Traffic Index,Public Transport Satisfaction
+Vienna,Austria,25,95
+Salzburg,Austria,25,85
+Brussels,Belgium,55,78
+Antwerp,Belgium,45,75
+Gent,Belgium,45,75
+Bruges,Belgium,45,75
+Sofia,Bulgaria,42,60
+Dobrich,Bulgaria,45,50
+Zurich,Switzerland,22,97
+Geneva,Switzerland,28,85
+Basel,Switzerland,20,85
+Lefkosia,Cyprus,35,50
+Lemesos,Cyprus,40,50
+Prague,Czechia,38,88
+Ostrava,Czechia,40,85
+Berlin,Germany,40,85
+Hamburg,Germany,45,87
+Munich,Germany,38,86
+Cologne,Germany,45,85
+Frankfurt am Main,Germany,45,85
+Stuttgart,Germany,45,85
+Leipzig,Germany,45,85
+Dresden,Germany,45,85
+Dusseldorf,Germany,45,85
+Hanover,Germany,45,85
+Copenhagen,Denmark,25,82
+Odense,Denmark,25,75
+Madrid,Spain,32,80
+Barcelona,Spain,35,82
+Valencia,Spain,35,75
+Seville,Spain,35,75
+Malaga,Spain,35,75
+Tallinn,Estonia,25,85
+Helsinki,Finland,20,93
+Tampere,Finland,25,85
+Paris,France,58,75
+Lyon,France,45,75
+Toulouse,France,45,75
+London,United Kingdom,65,80
+Leeds,United Kingdom,45,75
+Glasgow,United Kingdom,45,75
+Liverpool,United Kingdom,45,75
+Edinburgh,United Kingdom,45,75
+Athens,Greece,52,55
+Thessaloniki,Greece,45,50
+Zagreb,Croatia,40,65
+Split,Croatia,40,50
+Budapest,Hungary,35,70
+Miskolc,Hungary,40,70
+Debrecen,Hungary,40,70
+Dublin,Ireland,50,65
+Cork,Ireland,40,65
+Rome,Italy,62,45
+Milan,Italy,52,50
+Naples,Italy,45,35
+Turin,Italy,45,50
+Florence,Italy,45,50
+Venice,Italy,45,50
+Luxembourg,Luxembourg,45,65
+Riga,Latvia,32,75
+Malta,Malta,40,50
+The Hague,Netherlands,35,75
+Amsterdam,Netherlands,28,85
+Rotterdam,Netherlands,30,75
+Utrecht,Netherlands,35,75
+Eindhoven,Netherlands,35,75
+Oslo,Norway,28,90
+Bergen,Norway,25,65
+Stavanger,Norway,25,65
+Warsaw,Poland,45,75
+Lodz,Poland,45,70
+Cracow,Poland,45,70
+Lisbon,Portugal,40,75
+Porto,Portugal,35,70
+Braga,Portugal,35,70
+Coimbra,Portugal,35,70
+Giroc,Romania,45,50
+Bratislava,Slovak Republic,40,65
+Ljubljana,Slovenia,40,70
+Stockholm,Sweden,30,88
+Gothenburg,Sweden,25,85
+Malmo,Sweden,25,85
+Ankara,Turkiye,40,65
+Adana,Turkiye,40,65

@@ -10,7 +10,7 @@ APP_TITLE = "Where Should I Live 🏡"
 
 def render_header():
     try:
-        favicon = Image.open("data-science-in-action\images\house.png")
+        favicon = Image.open("data-science-in-action/images/house.png")
         st.header("Bem-vindo ao Data Science in Action!")
     except:
         favicon = None
@@ -36,7 +36,7 @@ def main():
     render_sidebar()
 
     # --- Background ---
-    add_bg("data-science-in-action\images\lisbon-wallpaper.jpg")
+    add_bg("data-science-in-action/images/lisbon-wallpaper.jpg")
     
 
 if __name__ == "__main__":

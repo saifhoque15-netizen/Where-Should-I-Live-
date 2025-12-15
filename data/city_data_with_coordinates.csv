@@ -3,7 +3,7 @@ Vienna,Austria,310.0,2983513,2018818.0,20.1,10.2,55770.0,3,"German, English, Tur
 Salzburg,Austria,243.0,375489,250472.0,20.3,3.0,66689.0,0,German,3200,1100,2186,2023-11-03,47.8,13.045,https://en.wikipedia.org/wiki/Salzburg
 Brussels,Belgium,681.0,3284548,2137425.0,27.5,10.7,62500.0,3,"French, Dutch, Arabic, English",3350,1200,1900,2023-04-22,50.84667,4.3525,https://en.wikipedia.org/wiki/Brussels
 Antwerp,Belgium,928.0,1139663,723396.0,27.7,6.2,57595.0,3,"Dutch, French, Arabic",2609,900,1953,2024-08-09,51.21778,4.40028,https://en.wikipedia.org/wiki/Antwerp
-Gent,Belgium,552.0,645813,417832.0,24.8,6.2,53311.0,2,"Dutch, French",2400,827,1200,2023-07-17,51.05361,3.72528,"https://en.wikipedia.org/wiki/Gent,_Belgium"
+Gent,Belgium,552.0,645813,417832.0,24.8,6.2,53311.0,2,"Dutch, French",2400,827,1200,2023-07-17,51.05361,3.72528,https://en.wikipedia.org/wiki/Ghent
 Bruges,Belgium,840.0,119765,74600.0,25.63,5.6,63083.0,0,"Dutch, French",2700,1250,1708,2023-10-25,51.20889,3.22417,https://en.wikipedia.org/wiki/Bruges
 Sofia,Bulgaria,272.0,1553106,1043522.0,21.4,2.3,43563.0,0,"Bulgarian, English, Turkish",1300,450,1100,2024-02-11,42.7,23.33,https://en.wikipedia.org/wiki/Sofia
 Dobrich,Bulgaria,640.0,73895,46359.0,22.85,4.6,10089.92,0,"Bulgarian, Turkish",1200,400,1100,2023-12-30,43.567,27.833,https://en.wikipedia.org/wiki/Dobrich
@@ -18,7 +18,7 @@ Berlin,Germany,304.0,5303922,3481212.0,21.3,4.7,46548.0,3,"German, Turkish, Arab
 Hamburg,Germany,461.0,3315036,2181857.0,21.5,3.2,61058.0,0,"German, English, Turkish",3500,1100,2100,2024-07-10,53.55,10.0,https://en.wikipedia.org/wiki/Hamburg
 Munich,Germany,529.0,2907752,1955041.0,21.1,2.1,83965.0,1,"German, English",3540,1500,2550,2023-03-16,48.1375,11.575,https://en.wikipedia.org/wiki/Munich
 Cologne,Germany,1233.0,2002550,1335299.0,20.8,3.9,60310.0,3,"German, English, Turkish",3200,1030,2000,2024-11-23,50.93639,6.95278,https://en.wikipedia.org/wiki/Cologne
-FrankfurtamMain,Germany,631.0,2710501,1791435.0,22.0,3.2,69372.0,6,"German, English",3800,1300,2350,2023-02-04,,,
+FrankfurtamMain,Germany,631.0,2710501,1791435.0,22.0,3.2,69372.0,6,"German, English",3800,1300,2350,2023-02-04,,,https://en.wikipedia.org/wiki/FrankfurtamMain
 Stuttgart,Germany,763.0,2787449,1843613.0,21.2,2.5,67644.0,3,"German, Turkish",3300,1300,2300,2024-05-19,48.7775,9.18,https://en.wikipedia.org/wiki/Stuttgart
 Leipzig,Germany,263.0,1043613,662617.0,21.4,4.3,41097.0,3,German,2800,800,1600,2023-07-30,51.34,12.375,https://en.wikipedia.org/wiki/Leipzig
 Dresden,Germany,231.0,1343213,818095.0,23.0,3.8,39767.0,0,German,3050,800,1530,2023-08-01,51.05,13.74,https://en.wikipedia.org/wiki/Dresden
@@ -26,7 +26,7 @@ Dusseldorf,Germany,1295.0,1554077,1024128.0,21.4,3.3,71238.0,3,German,3200,1100,
 Hanover,Germany,444.0,1316467,854349.0,21.0,4.0,54827.0,2,German,2800,900,1800,2023-10-07,52.367,9.717,https://en.wikipedia.org/wiki/Hanover
 Copenhagen,Denmark,598.0,1933919,1280970.0,25.4,6.5,63540.0,0,"Danish, English",4200,2100,2750,2024-03-26,55.67611,12.56833,https://en.wikipedia.org/wiki/Copenhagen
 Odense,Denmark,160.0,382711,245174.0,24.7,9.5,40304.0,0,Danish,3400,1000,2100,2023-12-02,55.39583,10.38861,https://en.wikipedia.org/wiki/Odense
-Madrid,Spain,873.0,6882461,4617753.0,23.0,10.8,51020.0,18,Spanish,2271,1100,1589,2023-05-14,,,
+Madrid,Spain,873.0,6882461,4617753.0,23.0,10.8,51020.0,18,Spanish,2271,1100,1589,2023-05-14,40.5,-3.667,https://en.wikipedia.org/wiki/Madrid
 Barcelona,Spain,1918.0,5034925,3331345.0,22.6,11.0,45016.0,0,"Spanish, Catalan",2094,1450,1630,2024-10-18,41.383,2.183,https://en.wikipedia.org/wiki/Barcelona
 Valencia,Spain,722.0,1748142,1162828.0,22.6,13.7,33570.0,5,"Spanish,Valencian",2400,1190,1300,2023-06-04,39.47,-0.37639,https://en.wikipedia.org/wiki/Valencia
 Seville,Spain,330.0,1549641,1037225.0,25.0,21.6,30004.0,53,Spanish,2300,650,1150,2024-09-01,37.39,-5.99,https://en.wikipedia.org/wiki/Seville
@@ -50,7 +50,7 @@ Budapest,Hungary,469.0,2997506,1980550.0,22.4,2.4,49130.0,0,"Hungarian, English"
 Miskolc,Hungary,172.0,283319,186102.0,24.1,4.4,21805.0,3,Hungarian,1000,500,900,2023-11-18,48.10417,20.79167,https://en.wikipedia.org/wiki/Miskolc
 Debrecen,Hungary,163.0,328409,219758.0,22.4,4.5,22648.0,7,Hungarian,1000,450,950,2024-08-31,47.53167,21.62444,https://en.wikipedia.org/wiki/Debrecen
 Dublin,Ireland,283.0,1971242,1327170.0,29.8,4.6,101483.0,0,"English, Irish Gaelic",2900,1600,2700,2023-07-22,53.35,-6.26028,https://en.wikipedia.org/wiki/Dublin
-Cork,Ireland,134.0,439101,284391.0,31.2,4.7,146094.0,0,"English, Irish Gaelic",2700,1300,2600,2024-10-26,51.89722,-8.47,"https://en.wikipedia.org/wiki/Cork,_Ireland"
+Cork,Ireland,134.0,439101,284391.0,31.2,4.7,146094.0,0,"English, Irish Gaelic",2700,1300,2600,2024-10-26,51.89722,-8.47,https://en.wikipedia.org/wiki/Cork_(city)
 Rome,Italy,704.0,4335555,2818910.0,20.8,9.3,50088.0,7,Italian,1600,1100,1500,2024-01-09,41.89333,12.48278,https://en.wikipedia.org/wiki/Rome
 Milan,Italy,1595.0,4965808,3167298.0,21.4,6.1,61133.0,17,Italian,1700,1400,1700,2023-06-12,45.46694,9.19,https://en.wikipedia.org/wiki/Milan
 Naples,Italy,2615.0,3362207,2258674.0,23.0,23.0,25952.0,1,Italian,1200,800,1000,2024-09-19,40.83583,14.24861,https://en.wikipedia.org/wiki/Naples
@@ -60,7 +60,7 @@ Venice,Italy,852.0,557748,347781.0,19.3,6.1,39681.0,6,Italian,1400,1150,1500,202
 Luxembourg,Luxembourg,236.0,610825,424824.0,23.1,5.6,112143.0,2,"Luxembourgish, French, German, English",4200,2100,3300,2024-11-29,49.817,6.133,https://en.wikipedia.org/wiki/Luxembourg
 Riga,Latvia,152.0,930245,594604.0,25.6,5.3,39537.0,0,"Latvian, Russian",1300,600,1250,2023-12-07,56.94889,24.10639,https://en.wikipedia.org/wiki/Riga
 Malta,Malta,1845.0,456490,309610.0,20.2,3.7,44781.0,0,"Maltese, English",1450,1000,1400,2024-02-28,35.9,14.517,https://en.wikipedia.org/wiki/Malta
-TheHague,Netherlands,2646.0,1103137,733794.0,25.1,4.2,54976.0,1,"Dutch, English",3500,1250,2000,2023-09-17,,,
+TheHague,Netherlands,2646.0,1103137,733794.0,25.1,4.2,54976.0,1,"Dutch, English",3500,1250,2000,2023-09-17,,,https://en.wikipedia.org/wiki/TheHague
 Amsterdam,Netherlands,864.0,2862590,1913803.0,24.0,3.3,73065.0,2,"Dutch, English",3750,1150,2550,2024-07-21,52.37278,4.89361,https://en.wikipedia.org/wiki/Amsterdam
 Rotterdam,Netherlands,864.0,1860582,1213524.0,25.2,4.1,54780.0,2,"Dutch, English",3100,1350,2100,2023-10-11,51.92,4.48,https://en.wikipedia.org/wiki/Rotterdam
 Utrecht,Netherlands,924.0,898712,592246.0,26.2,3.0,67062.0,3,"Dutch, English",3200,1300,2000,2024-05-26,52.09083,5.12167,https://en.wikipedia.org/wiki/Utrecht

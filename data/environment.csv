@@ -1,0 +1,85 @@
+City,Country,CO2 Emissions (per capita),Pollution Index,Air Quality Index,Green Space Index
+Vienna,Austria,6.75,22,78,50
+Salzburg,Austria,6.75,20,80,40
+Brussels,Belgium,7.77,62,38,25
+Antwerp,Belgium,7.77,58,42,25
+Gent,Belgium,7.77,50,50,25
+Bruges,Belgium,7.77,50,50,25
+Sofia,Bulgaria,7.34,68,32,35
+Dobrich,Bulgaria,7.34,60,40,25
+Zurich,Switzerland,4.11,14,86,40
+Geneva,Switzerland,4.11,18,82,35
+Basel,Switzerland,4.11,18,82,40
+Lefkosia,Cyprus,5.83,50,50,10
+Lemesos,Cyprus,5.83,50,50,15
+Prague,Czechia,9.51,40,60,35
+Ostrava,Czechia,9.51,60,40,30
+Berlin,Germany,8.01,38,62,40
+Hamburg,Germany,8.01,29,71,45
+Munich,Germany,8.01,25,75,40
+Cologne,Germany,8.01,32,68,40
+Frankfurt am Main,Germany,8.01,28,72,40
+Stuttgart,Germany,8.01,35,65,40
+Leipzig,Germany,8.01,35,65,40
+Dresden,Germany,8.01,35,65,40
+Dusseldorf,Germany,8.01,30,70,40
+Hanover,Germany,8.01,35,65,40
+Copenhagen,Denmark,4.94,15,85,45
+Odense,Denmark,4.94,15,85,30
+Madrid,Spain,5.32,38,62,39
+Barcelona,Spain,5.32,63,37,25
+Valencia,Spain,5.32,35,65,25
+Seville,Spain,5.32,35,65,25
+Malaga,Spain,5.32,35,65,25
+Tallinn,Estonia,8.87,22,78,40
+Helsinki,Finland,6.7,11,89,44
+Tampere,Finland,6.7,15,85,45
+Paris,France,4.76,63,37,20
+Lyon,France,4.76,52,48,25
+Toulouse,France,4.76,50,50,25
+London,United Kingdom,4.42,58,42,33
+Leeds,United Kingdom,4.42,35,65,30
+Glasgow,United Kingdom,4.42,35,65,30
+Liverpool,United Kingdom,4.42,35,65,30
+Edinburgh,United Kingdom,4.42,35,65,30
+Athens,Greece,5.45,55,45,10
+Thessaloniki,Greece,5.45,56,44,15
+Zagreb,Croatia,4.41,45,55,35
+Split,Croatia,4.41,60,40,30
+Budapest,Hungary,4.88,53,47,25
+Miskolc,Hungary,4.88,60,40,25
+Debrecen,Hungary,4.88,60,40,25
+Dublin,Ireland,7.39,42,58,35
+Cork,Ireland,7.39,35,65,30
+Rome,Italy,5.42,49,51,24
+Milan,Italy,5.42,68,32,15
+Naples,Italy,5.42,79,21,15
+Turin,Italy,5.42,68,32,25
+Florence,Italy,5.42,55,45,25
+Venice,Italy,5.42,55,45,25
+Luxembourg,Luxembourg,11.18,25,75,40
+Riga,Latvia,3.56,37,63,40
+Malta,Malta,3.85,55,45,15
+The Hague,Netherlands,7.52,35,65,30
+Amsterdam,Netherlands,7.52,30,70,30
+Rotterdam,Netherlands,7.52,35,65,30
+Utrecht,Netherlands,7.52,35,65,30
+Eindhoven,Netherlands,7.52,35,65,30
+Oslo,Norway,7.75,12,88,72
+Bergen,Norway,7.75,15,85,45
+Stavanger,Norway,7.75,15,85,45
+Warsaw,Poland,8.39,60,40,30
+Lodz,Poland,8.39,60,40,30
+Cracow,Poland,8.39,60,40,30
+Lisbon,Portugal,3.96,37,63,25
+Porto,Portugal,3.96,35,65,25
+Braga,Portugal,3.96,35,65,25
+Coimbra,Portugal,3.96,35,65,25
+Giroc,Romania,4.03,60,40,25
+Bratislava,Slovak Republic,6.19,40,60,35
+Ljubljana,Slovenia,6.59,30,70,50
+Stockholm,Sweden,3.61,12,88,45
+Gothenburg,Sweden,3.61,15,85,45
+Malmo,Sweden,3.61,15,85,45
+Ankara,Turkiye,6.19,40,60,30
+Adana,Turkiye,6.19,40,60,30
