@@ -18,7 +18,7 @@ Berlin,Germany,52.52,13.405,https://en.wikipedia.org/wiki/Berlin,True
 Hamburg,Germany,53.55,10.0,https://en.wikipedia.org/wiki/Hamburg,True
 Munich,Germany,48.1375,11.575,https://en.wikipedia.org/wiki/Munich,True
 Cologne,Germany,50.93639,6.95278,https://en.wikipedia.org/wiki/Cologne,True
-FrankfurtamMain,Germany,,,https://en.wikipedia.org/wiki/FrankfurtamMain,False
+FrankfurtamMain,Germany,50.11056,8.68222,https://en.wikipedia.org/wiki/Frankfurt,True
 Stuttgart,Germany,48.7775,9.18,https://en.wikipedia.org/wiki/Stuttgart,True
 Leipzig,Germany,51.34,12.375,https://en.wikipedia.org/wiki/Leipzig,True
 Dresden,Germany,51.05,13.74,https://en.wikipedia.org/wiki/Dresden,True
@@ -60,7 +60,7 @@ Venice,Italy,45.4375,12.33583,https://en.wikipedia.org/wiki/Venice,True
 Luxembourg,Luxembourg,49.817,6.133,https://en.wikipedia.org/wiki/Luxembourg,True
 Riga,Latvia,56.94889,24.10639,https://en.wikipedia.org/wiki/Riga,True
 Malta,Malta,35.9,14.517,https://en.wikipedia.org/wiki/Malta,True
-TheHague,Netherlands,,,https://en.wikipedia.org/wiki/TheHague,False
+TheHague,Netherlands,52.08,4.31,https://en.wikipedia.org/wiki/The_Hague,True
 Amsterdam,Netherlands,52.37278,4.89361,https://en.wikipedia.org/wiki/Amsterdam,True
 Rotterdam,Netherlands,51.92,4.48,https://en.wikipedia.org/wiki/Rotterdam,True
 Utrecht,Netherlands,52.09083,5.12167,https://en.wikipedia.org/wiki/Utrecht,True

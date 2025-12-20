@@ -1,47 +1,50 @@
-# Where Should I Live
+# 🌍 Where Should I Live? (Group 22)
 
-Where Should I Live is the final term project of the course **Programming for Data Science**.
+## PDS Project 2025/2026
 
-## Usage
+This data science application helps users find their ideal living location based on lifestyle preferences. It utilizes a Recommendation System and Comparative Analysis tools to visualize and match users with cities.
 
+---
 
-## Contributing
+## 📂 Project Structure
 
-This is the group 22 project.
+```text
+├── requirements.txt           # Python dependencies
+├── Group22_PDS_2526.ipynb     # Exploratory Data Analysis Notebook
+├── data-science-in-action/    # Data Science in Action
+│   ├── components/            # Helper scripts (Wiki, matching logic, etc.)
+│   ├── images/                # Assets
+│   └── pages/                 # Application Pages
+│       ├── Comparative Analysis.py
+│       ├── Life Style Match.py
+│       ├── Recommendation System.py
+│       └── Where Should I Live.py
 
-## Environment Data
-o compile the environmental data for the cities in your dataset, I used the following resources and methodologies:
+## 🛠️ Installation & Setup Guide
 
-1. Pollution Index & Air Quality Index
+1. Open a terminal in the main directory.
+2. Create a virtual environment (optional but recommended):
+   ```bash
+   python -m venv venv
+   # Windows:
+   .\venv\Scripts\activate
+   # Mac/Linux:
+   source venv/bin/activate
+3. Install the requirments
+```bash
+pip install -r requirements.txt
+4. Run the application using Streamlit:
+```bash
+streamlit run '.\data-science-in-action\Where Should I Live.py'
 
-    Source: Numbeo Pollution Index 2024 and European Environment Agency (EEA) air quality reports.
+## Application Prviews
+![Welcome Page](data-science-in-action\images\first-page.png)
 
-    Methodology:
+![Compare Two European Cities](data-science-in-action\images\comparative-analysis.png)
 
-        Major Cities: Specific real-time and survey-based indices were retrieved from Numbeo.
+![The Best European City Based On Your Lifestyle](data-science-in-action\images\life-style-match.png)
 
-        Smaller Cities: Values were approximated using regional or country-level averages, adjusted for known industrial activity or proximity to major urban centers (e.g., cities in Northern Italy generally have higher pollution indices due to the geography of the Po Valley).
+![European City Recommendation](data-science-in-action\images\recommendation-system.png)
 
-        Note: The "Air Quality Index" was calculated as the inverse of the Pollution Index for consistency (where 100 = Cleanest, 0 = Most Polluted).
-
-2. CO2 Emissions (per capita)
-
-    Source: Worldometer CO2 Emissions Data and Eurostat (2022/2023 estimates).
-
-    Methodology:
-
-        Since city-specific carbon footprint data is often unavailable or inconsistent across borders, I used the most recent country-level per capita emissions figures. This serves as a standardized baseline for comparing cities in different nations.
-
-3. Green Space Index
-
-    Source: HUGSI (Husqvarna Urban Green Space Index) 2024 and EEA Urban Atlas.
-
-    Methodology:
-
-        Mapped Cities: For cities covered by the HUGSI index or Urban Atlas, I used the specific percentage of urban area covered by vegetation.
-
-        Estimates: For unmapped cities, I applied regional averages based on climate and urban planning characteristics (e.g., Nordic cities were assigned higher baseline percentages ~45-50%, while dense historical centers in Southern Europe were estimated between ~15-25%).
-        
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Authors
+Group 22

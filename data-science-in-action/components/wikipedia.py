@@ -23,14 +23,13 @@ def wiki_summary(url_or_title):
 
 def wiki_images(url_or_title):
     try:
-        # Convert URL to title if needed
         if url_or_title.startswith("http"):
             title = url_or_title.split("/")[-1].replace("_", " ")
         else:
             title = url_or_title
-        
+
         page = wk.page(title)
-        img_urls = page.images  # list of URLs
+        img_urls = [img for img in page.images if img.lower().endswith(('.jpg', '.jpeg', '.png'))]
         return img_urls
     except Exception as e:
         st.warning(f"Error retrieving images: {str(e)}")

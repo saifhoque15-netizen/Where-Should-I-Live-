@@ -162,8 +162,9 @@ else:
     st.subheader("Health Care 💊")
     health.drop('Country', axis=1, inplace=True)
     health_comparison_df = (
-        health[health["City"].isin([left_city, right_city])]
+        health[health["City"].isin([right_city, left_city])]
         .set_index("City")
+        .reindex([left_city, right_city])
         .T
     )
 
@@ -176,6 +177,7 @@ else:
     tra_comparison_df = (
         tra[tra["City"].isin([left_city, right_city])]
         .set_index("City")
+        .reindex([left_city, right_city])
         .T
     )
 
@@ -188,6 +190,7 @@ else:
     env_comparison_df = (
         env[env["City"].isin([left_city, right_city])]
         .set_index("City")
+        .reindex([left_city, right_city])
         .T
     )
 
@@ -220,12 +223,13 @@ else:
     st.divider()
 
     # --- City Images
-    left_city_images = wiki_images(left_data['Wikipedia_URL'])
-    right_city_images = wiki_images(right_data['Wikipedia_URL'])
+    left_city_images = wiki_images(left_data.get('Wikipedia_URL', '')) or []
+    right_city_images = wiki_images(right_data.get('Wikipedia_URL', '')) or []
 
     max_images = 3
     left_city_images = left_city_images[:max_images]
     right_city_images = right_city_images[:max_images]
+
 
     # Display side by side
     col1, col2 = st.columns(2)
