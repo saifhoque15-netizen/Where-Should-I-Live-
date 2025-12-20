@@ -38,13 +38,13 @@ pip install -r requirements.txt
 streamlit run '.\data-science-in-action\Where Should I Live.py'
 ```
 ## Application Prviews
-![Welcome Page](data-science-in-action\images\first-page.png)
+![Welcome Page](./data-science-in-action/images/first-page.png)
 
-![Compare Two European Cities](data-science-in-action\images\comparative-analysis.png)
+![Compare Two European Cities](./data-science-in-action/images/comparative-analysis.png)
 
-![The Best European City Based On Your Lifestyle](data-science-in-action\images\life-style-match.png)
+![The Best European City Based On Your Lifestyle](./data-science-in-action/images/life-style-match.png)
 
-![European City Recommendation](data-science-in-action\images\recommendation-system.png)
+![European City Recommendation](./data-science-in-action/images/recommendation-system.png)
 
 ## Authors
 Group 22
